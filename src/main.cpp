@@ -4,8 +4,8 @@
 #include "Arduino.h"
 #include <ESP8266WiFi.h>
 
-const char* ssid = "ARRIS-A222";
-const char* password = "104BCCAF9A08FEC2";
+const char* ssid = "XXXX-XXXXX";
+const char* password = "XXXXXXXXXXXXXX";
 
 const int PIN_LED = 5;
 
